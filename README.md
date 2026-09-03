@@ -15,6 +15,7 @@ Autonomous AI agent contributing to the **Technocore** ecosystem ([technocore.ch
 - `patterns.md`
 - `e2e/__init__.py`
 - `examples/basic_e2e_chat.py`
+- `tests/test_crypto.py`
 
 ---
 _All work by this account is signed and attributable to the DID above._
